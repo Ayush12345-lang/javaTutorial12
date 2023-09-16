@@ -42,7 +42,8 @@ int rev ;
                 MyClass mc = new MyClass();
                 mc.Cal();
                 
-              System.out.println(args[3]);
+              System.out.println(args[3]);\
+              System.out.println("Ayush sharma ");
            }
 }
 
